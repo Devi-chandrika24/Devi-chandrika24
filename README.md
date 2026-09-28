@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devi Chandrika
 
-### 🚀 Frontend Developer | UI/UX Designer | Java DSA Enthusiast
+### 🚀 Frontend Developer | Java DSA Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI%2FUX+Designer;Building+Clean+%26+Interactive+Interfaces;Turning+Ideas+into+Real+Products;200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
@@ -19,13 +19,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Frontend Developer and UI/UX Designer** who enjoys transforming ideas into clean, responsive, and engaging digital experiences.
+I'm a passionate **Frontend Developer who enjoys transforming ideas into clean, responsive, and engaging digital experiences.
 
 I love working at the intersection of **design and development** — creating interfaces that are not only visually appealing but also functional, accessible, and user-friendly.
 
-Currently, I'm strengthening my skills in **React, Angular, JavaScript, TypeScript, UI/UX, and Java DSA**, while building real-world projects that solve practical problems.
+Currently, I'm strengthening my skills in **React, Angular, JavaScript, TypeScript and Java DSA**, while building real-world projects that solve practical problems.
 
-* 🎨 Frontend Developer & UI/UX Designer
+* 🎨 Frontend Developer 
 * 💻 Strong interest in modern web development
 * 🧩 Practicing Java & Data Structures regularly
 * 🧠 **200+ LeetCode problems solved**
@@ -176,8 +176,6 @@ I enjoy creating interfaces with:
 Frontend Engineering
         ↓
 React • Next.js • Angular • TypeScript
-        ↓
-Advanced UI/UX
         ↓
 Design Systems • Accessibility • Animations
         ↓
